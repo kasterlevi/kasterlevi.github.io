@@ -6,6 +6,9 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
   gem 'jemoji'
+  gem "tzinfo", "~> 1.2"
+  gem "tzinfo-data"
+  gem 'bigdecimal'
   gem 'webrick', '~> 1.8'
 end
 

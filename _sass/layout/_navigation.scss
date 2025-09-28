@@ -11,7 +11,7 @@
   @include clearfix;
   margin-top: 0;
   margin-bottom: 0;
-  padding-left: 2em;
+  padding-left: 2.5em;
   padding-right: 2em;
   font-family: $sans-serif;
   -webkit-animation: intro 0.3s both;
@@ -20,7 +20,7 @@
           animation-delay: 0.30s;
 
   @include breakpoint($large) {
-    padding-left: 1em;
+  padding-left: 1.5em;
     padding-right: 1em;
   }
 
@@ -34,7 +34,7 @@
     font-size: $type-size-6;
 
     @include breakpoint($large) {
-      @include span(10 of 12 last);
+      @include span(9 of 12 last);
     }
 
     @include breakpoint($x-large) {
@@ -48,6 +48,32 @@
 
   .current {
     font-weight: bold;
+  }
+}
+
+
+/* If you removed the dropdown behavior but still see right-side gap,
+   hide the dropdown/button and let the visible links flow with flex.
+   This prevents the greedy-nav plugin from reserving space for a
+   hidden button or dropdown. */
+.greedy-nav {
+  min-width: 0 !important;
+
+  /* When JS marks the button hidden, don't let it occupy layout space */
+  button.hidden {
+    display: none !important;
+  }
+
+  /* Ensure the hidden-links dropdown doesn't affect layout */
+  .hidden-links {
+    display: none !important;
+  }
+
+  /* Let visible links flow naturally and use small gaps */
+  .visible-links {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
   }
 }
 
@@ -179,7 +205,7 @@
 
   a {
     display: block;
-    margin: 0 1rem;
+    margin: 0 0.5rem;
     padding: 0.5rem 0;
     color: var(--global-masthead-link-color);
     text-decoration: none;
@@ -192,8 +218,8 @@
   button {
     position: absolute;
     height: 2.5rem;
-    right: 0;
-    padding: 0 0.5rem;
+    right: 0.25rem;
+    padding: 0 0.25rem;
     border: 0;
     outline: none;
     background-color: var(--global-base-color);
@@ -265,7 +291,7 @@
     top: 100%;
     right: 0;
     margin-top: 15px;
-    padding: 5px;
+    padding: 3px;
     border: 1px solid var(--global-border-color);
     border-radius: $border-radius;
     background: #fff;

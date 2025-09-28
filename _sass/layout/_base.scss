@@ -14,7 +14,9 @@ body {
 
   margin: 0;
   padding: $masthead-height 0 0;
-  padding-bottom: 9em;
+  /* reduce this to a tiny value so the sticky footer script can set an accurate
+    bottom margin without creating large empty scroll space */
+  padding-bottom: 0.1rem;
   font-family: $global-font-family;
   line-height: 1.5;
 

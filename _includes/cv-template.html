@@ -199,7 +199,7 @@
   </div>
   {% endif %}
   
-  {% if cv.teaching.size > 0 %}
+  {% if cv.teaching and cv.teaching.size > 0 %}
   <!-- Teaching -->
   <div class="cv-section">
     <h2>Teaching</h2>
@@ -225,7 +225,7 @@
   </div>
   {% endif %}
   
-  {% if cv.portfolio.size > 0 %}
+  {% if cv.portfolio and cv.portfolio.size > 0 %}
   <!-- Portfolio -->
   <div class="cv-section">
     <h2>Portfolio</h2>

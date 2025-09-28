@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Researcher"
+  avatar           : "Headshot.jpg"
+  name             : "Levi Kaster"
   pronouns         : # example: "she/her"  
-  bio              : "I am a 2nd-year PhD student in Biomedical Informatics and Data Science at Washington University School of Medicine in St. Louis, within the Institute for Informatics, Data Science, and Biostatistics (I2DB). My research focuses on leveraging large language models and rule-based systems for clinical entity extraction and the improvement of patient care. I am intersted in the safe and effective deployment of AI technologies in healthcare settings. Some of my current projects include predictive modeling for Neurofibromatosis Type 1 (NF1), developing LLM prompting methodologies for information extraction (i.e. with RAG, divide-and-conquer methods, etc.), and transfering interoporable NLP technologies across academic medical centers."
-  location         : "St. Louis, MO"
-  employer         : "Washington University in St. Louis"
+  bio              : "I’m a 2nd-year PhD student in the Institute for Informatics, Data Science, and Biostatistics (I2DB) at Washington University School of Medicine."
+  location         : # No Location
+  employer         : "WashU School of Medicine"
   uri              : # URL
   email            : "k.levi@wustl.edu" 
 
@@ -81,12 +81,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  talks:
+    title: 'Talks'
+  posters:
+    title: 'Posters'  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -219,13 +219,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
