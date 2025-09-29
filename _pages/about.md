@@ -17,6 +17,6 @@ I graduated with a B.S. in Data Science from the [WashU McKelvey School](https:/
 
 **2025-09-12** — Our paper [comparing rule and large-language model based entity extraction methods for NF1](https://i2db.wustl.edu/leveraging-ai-to-improve-nf1-patient-care-comparing-clinical-entity-extraction-methods/) was published in [JAMIA](https://academic.oup.com/jamia)! 
 
-**2025-05-31** — Our team won a $5,000 prize for [our project at the CAIDF Hackathon](https://i2db.wustl.edu/student-team-earns-top-predictive-analytics-prize-in-chicago/).   
+**2025-05-31** — Our team won a $5,000 prize for [our project at the CAIDF Hackathon](https://i2db.wustl.edu/student-team-earns-top-predictive-analytics-prize-in-chicago/). We developed multi-institutional 30-day fall readmission risk models that incorporated LLM-extracted phenotypes from clinical notes, and displayed the risk with an interactive dashboard that incorporated patient level LLM-generated summaries, social determinants of health, and the top predictive features. 
 
 **2024-11-12** — Gave a talk at the [2024 Child Neurology Society Meeting](https://www.childneurologysociety.org/annual-meetings/53rd-cns-annual-meeting/) on utilizing LLMs to extract functional biomarkers from multi-institutional clinical notes. 

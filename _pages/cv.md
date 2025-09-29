@@ -9,54 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- CV download and embed -->
+<p>
+  <a class="btn" href="/files/LeviKaster_CV.pdf" download>Download CV (PDF)</a>
+</p>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-<!-- Teaching section removed -->
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<div class="cv-embed" style="margin: 1rem 0;">
+  <iframe src="/files/LeviKaster_CV.pdf" width="100%" height="800" style="border:1px solid #ddd;">
+    This browser does not support embedded PDFs. You can <a href="/files/LeviKaster_CV.pdf">download the PDF</a> instead.
+  </iframe>
+</div>

@@ -11,15 +11,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Conferences"
+    url: /conferences/    
   
-    
   - title: "CV"
     url: /cv/
+  
+  # Under Construction add this as a tab later
+  # - title: "All News"
+  #   url: /news/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
