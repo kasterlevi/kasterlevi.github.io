@@ -12,11 +12,11 @@ author_profile: true
 *November 2024; San Diego, CA - Platform Presentation at 2024 Child Neurology Society Conference.*<br>
 <sup>+</sup>Submitted as an abstract, 7% (32/466) of which were accepted as oral presentations.
 
-**A Text-Mining Model for Extracting Phenotypes from NF1 Clinical Notes. Lightning talk at I2DB Symposium**<br>
+**A Text-Mining Model for Extracting Phenotypes from NF1 Clinical Notes**<br>
 **L Kaster**, R Mu, E Hillis, IY Oh, SM Morris, et al.<br>
 *April 2024; St. Louis, MO - Lightning talk at I2DB Symposium*
 
-**A Text-Mining Model for Extracting Phenotypes from NF1 Clinical Notes. Lightning talk at I2DB Symposium**<br>
+**A Text-Mining Model for Extracting Phenotypes from NF1 Clinical Notes**<br>
 **L Kaster**, R Mu, E Hillis, IY Oh, SM Morris, et al.<br>
 *November 2023; St. Louis, MO - Talk at Midstates Consortium for Math and Science Undergraduate Research Symposium*
 

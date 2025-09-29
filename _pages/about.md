@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "Levi Kaster Bio"
 author_profile: true
 redirect_from: 
   - /about/
