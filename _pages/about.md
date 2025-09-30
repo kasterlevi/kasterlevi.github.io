@@ -11,7 +11,7 @@ I am a 2nd-year PhD student in Biomedical Informatics and Data Science at [Washi
 
 Current projects include predictive modeling for Neurofibromatosis Type 1 (NF1), developing LLM prompting methodologies for clinical information extraction (e.g., retrieval-augmented generation and divide-and-conquer approaches), and advancing the transfer of interoperable NLP technologies across academic medical centers.
 
-I graduated with a B.S. in Data Science from the [WashU McKelvey School](https://engineering.washu.edu/index.html) of Engineering in December 2023, and joined my PhD program the next year. I am co-advised by my aweseome advisors Drs. [Philip R. O. Payne](https://i2db.wustl.edu/people/philip-payne/) and [Aditi Gupta](https://i2db.wustl.edu/people/aditi-gupta-phd/).
+I graduated with a B.S. in Data Science from the [WashU McKelvey School](https://engineering.washu.edu/index.html) of Engineering in December 2023, and joined my PhD program the next year. I am co-advised by my amazing advisors Drs. [Philip R. O. Payne](https://i2db.wustl.edu/people/philip-payne/) and [Aditi Gupta](https://i2db.wustl.edu/people/aditi-gupta-phd/).
 
 # Selected News 
 
