@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Levi Kaster Bio"
+title: "Levi Kaster"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +14,8 @@ Current projects include predictive modeling for Neurofibromatosis Type 1 (NF1),
 I graduated with a B.S. in Data Science from the [WashU McKelvey School](https://engineering.washu.edu/index.html) of Engineering in December 2023, and joined my PhD program the next year. I am co-advised by my amazing advisors Drs. [Philip R. O. Payne](https://i2db.wustl.edu/people/philip-payne/) and [Aditi Gupta](https://i2db.wustl.edu/people/aditi-gupta-phd/).
 
 # Selected News 
+
+**2025-11-17** — Presented a poster on "Comparing Prompting Methods for Entity Extraction from Clinical Notes with RAG and Divide-and-Conquer Novel Methods Development" at the 2025 AMIA Annual Symposium! 
 
 **2025-09-12** — Our paper [comparing rule and large-language model based entity extraction methods for NF1](https://i2db.wustl.edu/leveraging-ai-to-improve-nf1-patient-care-comparing-clinical-entity-extraction-methods/) was published in [JAMIA](https://academic.oup.com/jamia)! 
 

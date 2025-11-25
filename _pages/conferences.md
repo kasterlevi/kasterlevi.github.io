@@ -24,7 +24,7 @@ author_profile: true
 
 **Comparing Prompting Methods for Entity Extraction from Clinical Notes with RAG and Divide-and-Conquer Novel Methods Development**<br>
 **L Kaster** and AP Michelson.<br>
-*November 2025; Atlanta, GA — To be presented at AMIA 2025 Annual Symposium.*<br>
+*November 2025; Atlanta, GA — Presented at AMIA 2025 Annual Symposium.*<br>
 
 **Identifying NF1 Phenotypes from Unstructured Clinical Notes Using a Text-Mining Based Phenotype Extraction Model**<br>
 **L Kaster**, R Mu, E Hillis, IY Oh, SM. Morris, et al.<br>
