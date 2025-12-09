@@ -13,7 +13,7 @@ You can also find my manuscripts on my [google scholar page](https://scholar.goo
 
 [**Neurobehavioral Profiles and Clinical Consequences of MYT1L-Related Neurodevelopmental Disorder: Insights from the Brain Gene Registry**](https://www.medrxiv.org/content/10.64898/2025.12.01.25340510v1)<br>
 J Granadillo<sup>+</sup>, **L Kaster<sup>+</sup>**, D Grewal, A Schreiber, A Abbacchi, et al.<br>
-*December 2025 - medRxiv preprint*
+*December 2025 - medRxiv preprint*<br>
 *<sup>+</sup>Shared First Authors*
 
 [**Comparison of rule-and large language model-based phenotype extraction from clinical notes for neurofibromatosis type 1**](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf155/8253274)<br>
