@@ -15,6 +15,8 @@ I graduated with a B.S. in Data Science from the [WashU McKelvey School](https:/
 
 # Selected News 
 
+**2026-02-16** — Passed my qualifying exam!
+
 **2025-11-17** — Presented a poster on "Comparing Prompting Methods for Entity Extraction from Clinical Notes with RAG and Divide-and-Conquer Novel Methods Development" at the 2025 AMIA Annual Symposium! 
 
 **2025-09-12** — Our paper [comparing rule and large-language model based entity extraction methods for NF1](https://i2db.wustl.edu/leveraging-ai-to-improve-nf1-patient-care-comparing-clinical-entity-extraction-methods/) was published in [JAMIA](https://academic.oup.com/jamia)! 

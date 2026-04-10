@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- CV download and embed -->
 <p>
-  <a class="btn" href="/files/LeviKaster_CV.pdf" download>Download CV (PDF)</a>
+  <a class="btn" href="/files/Levi_Kaster_CV_April_2026.pdf" download>Download CV (PDF)</a>
 </p>
 
 <div class="cv-embed" style="margin: 1rem 0;">

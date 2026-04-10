@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+**Multimodal Early Warning Prediction of Optic Pathway Glioma in NF1 Utilizing Large Language Models (LLMs)**<br>
+**L Kaster**, E Hillis, IY Oh, SM Morris, DH Gutmann, et al.<br>
+*June 2026; Denver, CO - Platform Presentation to be presented at Children's Tumor Foundation NF Conference 2026.*<br>
+
 **Utilizing Large-Language Models to Extract Patient Verbal and Ambulatory Status from Multi-Institutional and Multi-Specialty Clinical Notes**<br>
 **L Kaster**, IY Oh, C Vickstrom, V Lanzotti, PRO Payne, et al.<br>
 *November 2024; San Diego, CA - Platform Presentation at 2024 Child Neurology Society Conference.*<br>
