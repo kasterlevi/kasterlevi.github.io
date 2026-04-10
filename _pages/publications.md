@@ -18,7 +18,7 @@ J Granadillo<sup>+</sup>, **L Kaster<sup>+</sup>**, D Grewal, A Schreiber, A Abb
 
 [**Comparison of rule-and large language model-based phenotype extraction from clinical notes for neurofibromatosis type 1**](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf155/8253274)<br>
 **L Kaster<sup>+</sup>**, E Hillis<sup>+</sup>, IY Oh, EC Cordell, RE Foraker, et al.<br>
-*September 2025 - Journal of the American Medical Informatics Association*
+*September 2025 - Journal of the American Medical Informatics Association*<br>
 *<sup>+</sup>Shared First Authors*
 
 [**Automated extraction of functional biomarkers of verbal and ambulatory ability from multi-institutional clinical notes using large language models**](https://link.springer.com/article/10.1186/s11689-025-09612-w)<br>
