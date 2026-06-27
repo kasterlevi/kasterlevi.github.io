@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd-year PhD student in Biomedical Informatics and Data Science at [Washington University School of Medicine in St. Louis](https://medicine.washu.edu/), within the [Institute for Informatics, Data Science, and Biostatistics](https://i2db.wustl.edu/). My research focuses on leveraging large language models and rule-based systems for clinical entity extraction and improving patient care. I am interested in the safe and effective deployment of AI in healthcare. 
+I am a 2nd-year PhD student in Biomedical Informatics and Data Science at [Washington University School of Medicine in St. Louis](https://medicine.washu.edu/), within the [Institute for Informatics, Data Science, and Biostatistics](https://i2db.wustl.edu/). My research focuses on leveraging large language models and NLP systems for clinical entity extraction, and performing LLM-enhanced multimodal predictive modeling using EHR data. I am interested in the safe and effective deployment of AI in healthcare. 
 
 Current projects include predictive modeling for Neurofibromatosis Type 1 (NF1), developing LLM prompting methodologies for clinical information extraction (e.g., retrieval-augmented generation and divide-and-conquer approaches), and advancing the transfer of interoperable NLP technologies across academic medical centers.
 
-I graduated with a B.S. in Data Science from the [WashU McKelvey School](https://engineering.washu.edu/index.html) of Engineering in December 2023, and joined my PhD program the next year. I am co-advised by my amazing advisors Drs. [Philip R. O. Payne](https://i2db.wustl.edu/people/philip-payne/) and [Aditi Gupta](https://i2db.wustl.edu/people/aditi-gupta-phd/).
+I graduated with a B.S. in Data Science from the [WashU McKelvey School](https://engineering.washu.edu/index.html) of Engineering in December 2023, and joined my PhD program the next year. I am co-advised by my amazing advisors Drs. [Philip R. O. Payne](https://i2db.wustl.edu/people/philip-payne/) and [Aditi Gupta](https://i2db.wustl.edu/people/aditi-gupta-phd/). 
 
 # Selected News 
+
+**2026-05-31** - Won a $5,000 prize for a second year in a row at the [CAIDF Hackathon](https://www.caidf.org/2026-hackathon-winners) as a part of a small team of biomedical informatics students!
 
 **2026-02-16** — Passed my qualifying exam!
 
