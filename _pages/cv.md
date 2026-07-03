@@ -16,6 +16,6 @@ redirect_from:
 
 <div class="cv-embed" style="margin: 1rem 0;">
   <iframe src="/files/Levi_Kaster_CV_July_2026.pdf" width="100%" height="800" style="border:1px solid #ddd;">
-    This browser does not support embedded PDFs. You can <a href="/files/LeviKaster_CV.pdf">download the PDF</a> instead.
+    This browser does not support embedded PDFs. You can <a href="/files/Levi_Kaster_CV_July_2026.pdf">download the PDF</a> instead.
   </iframe>
 </div>
