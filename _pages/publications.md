@@ -11,6 +11,15 @@ You can also find my manuscripts on my [google scholar page](https://scholar.goo
 
 ## Manuscript List
 
+[**Harmonizing Multi-Institutional Clinical Documentation Using Natural Language Processing in Neurofibromatosis Type 1**](https://www.neurology.org/doi/full/10.1212/CPJ.0000000000200648)<br>
+S Morris, **L Kaster**, S Amagai, C Raski, K Regan-Fendt, et al.<br>
+*August 2026 - Neurology: Clinical Practice*
+*<sup>+</sup>Shared First Authors*
+
+[**Multi-modal pediatric critical care datamart for extracorporeal support prediction and decision support**](https://academic.oup.com/jamiaopen/article/9/1/ooag011/8487100)<br>
+M Edmunds, A Gupta, IY Oh, **L Kaster**, J Sagel, et al.<br>
+*February 2026 - JAMIA Open*
+
 [**Neurobehavioral Profiles and Clinical Consequences of MYT1L-Related Neurodevelopmental Disorder: Insights from the Brain Gene Registry**](https://www.medrxiv.org/content/10.64898/2025.12.01.25340510v1)<br>
 J Granadillo<sup>+</sup>, **L Kaster<sup>+</sup>**, D Grewal, A Schreiber, A Abbacchi, et al.<br>
 *December 2025 - medRxiv preprint*<br>
@@ -33,6 +42,5 @@ H Zhang, T Xu, D Cao, S Liang, L Schimmelpfennig, **L Kaster**, et al.<br>
 D Baldridge<sup>+</sup>, **L Kaster<sup>+</sup>**, C Sancimino, S Srivastava, S Molholm, et al.<br>
 *April 2024 - Journal of Neurodevelopmental Disorders*<br>
 *<sup>+</sup>Shared First Authors*
-
 
 
