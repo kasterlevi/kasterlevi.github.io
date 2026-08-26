@@ -13,7 +13,7 @@ Current projects include predictive modeling for Neurofibromatosis Type 1 (NF1),
 
 I graduated with a B.S. in Data Science from the [WashU McKelvey School](https://engineering.washu.edu/index.html) of Engineering in December 2023, and joined my PhD program the next year. I am co-advised by my amazing advisors Drs. [Philip R. O. Payne](https://i2db.wustl.edu/people/philip-payne/) and [Aditi Gupta](https://i2db.wustl.edu/people/aditi-gupta-phd/). 
 
-I hope to build a career as a leader bridging academia and industry in medical AI. I gained experience integral to this goal during my internship at [Rezilient Health](https://www.rezilienthealth.com/company/about-us), where I brought AI tools to new automated production workflows, and through my role as Student Represntative for the BIDS PhD program, where I help plan program events and advocate for BIDS within the university.
+I hope to build a career as a leader bridging academia and industry in medical AI. I gained experience integral to this goal during my internship at [Rezilient Health](https://www.rezilienthealth.com/company/about-us), where I brought AI tools to new automated production workflows, and through my role as Student Representative for the BIDS PhD program, where I help plan program events and advocate for BIDS within the university.
 
 # Selected News 
 
