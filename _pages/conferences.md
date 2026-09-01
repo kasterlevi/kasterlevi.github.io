@@ -26,6 +26,18 @@ author_profile: true
 
 # Posters
 
+**Cross-Institutional Reproducibility of Machine Learning Models for Clinical Prediction in Pediatric Neurofibromatosis Type 1**<br>
+**L Kaster**, S Amagai, IY Oh, SM Morris, R Listernick, et al.<br>
+*November 2026; Dallas, TX — To be Presented at AMIA 2026 Annual Symposium.*<br>
+
+**Multimodal Early Warning Prediction of Optic Pathway Glioma in NF1 Utilizing Large Language Models (LLMs)**<br>
+**L Kaster**, E Hillis, IY Oh, SM Morris, DH Gutmann, et al.<br>
+*November 2026; Dallas, TX — To be Presented at AMIA 2026 Annual Symposium.*<br>
+
+**MAP-NF1: Multi-dimensional Algorithmic Prediction for NF1-OPG**<br>
+**L Kaster**, A Gupta, PRO Payne, DH Gutmann, IY Oh, et al.<br>
+*September 2026; Detroit, MI — Presented at Gilbert Family Foundation NF1 Meeting 2026.*<br>
+
 **Comparing Prompting Methods for Entity Extraction from Clinical Notes with RAG and Divide-and-Conquer Novel Methods Development**<br>
 **L Kaster** and AP Michelson.<br>
 *November 2025; Atlanta, GA — Presented at AMIA 2025 Annual Symposium.*<br>
