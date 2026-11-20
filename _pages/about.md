@@ -15,6 +15,8 @@ I graduated with a B.S. in Data Science from the [WashU McKelvey School](https:/
 
 # Selected News 
 
+**2026-10-22** — Our paper [Large language models for multimodal clinical predictive modeling: a systematic review](https://www.nature.com/articles/s41746-026-03349-z) was published in *npj Digital Medicine*!
+
 **2026-08-12** — Our paper [Harmonizing Multi-Institutional Clinical Documentation Using Natural Language Processing in Neurofibromatosis Type 1](https://www.neurology.org/doi/abs/10.1212/CPJ.0000000000200648) was published in [Neurology: Clinical Practice](https://www.neurology.org/journal/cpj)!
 
 **2026-06-30** — Gave a platform presentation on "Multimodal Early Warning Prediction of Optic Pathway Glioma in NF1 Utilizing Large Language Models (LLMs)" at the Children's Tumor Foundation NF Conference 2026 in Denver, CO!

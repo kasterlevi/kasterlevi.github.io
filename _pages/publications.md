@@ -11,6 +11,10 @@ You can also find my manuscripts on my [google scholar page](https://scholar.goo
 
 ## Manuscript List
 
+[**Large language models for multimodal clinical predictive modeling: a systematic review**](https://www.nature.com/articles/s41746-026-03349-z)<br>
+**L Kaster**, AE Lewis, PRO Payne, A Gupta<br>
+*October 2026 - npj Digital Medicine*
+
 [**Harmonizing Multi-Institutional Clinical Documentation Using Natural Language Processing in Neurofibromatosis Type 1**](https://www.neurology.org/doi/full/10.1212/CPJ.0000000000200648)<br>
 S Morris<sup>+</sup>, **L Kaster<sup>+</sup>**, S Amagai, C Raski, K Regan-Fendt, et al.<br>
 *August 2026 - Neurology: Clinical Practice*<br>
